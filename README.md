@@ -1,2 +1,2 @@
-# sps31
-Repository for Google SPS Team 31's Project
+# Covaid 
+A map search platform for covid testing centers and related resources
